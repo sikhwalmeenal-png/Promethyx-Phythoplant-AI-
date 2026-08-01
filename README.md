@@ -59,7 +59,7 @@ These signals are processed through a signal conditioning circuit and analyzed u
 - TinyML
 - GitHub
 
-# Prototype Workflow
+# Flowchart 
 
 The following flowchart illustrates the complete workflow of the Promethyx – Phythoplant AI system.
 
