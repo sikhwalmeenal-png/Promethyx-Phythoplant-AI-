@@ -67,7 +67,7 @@ https://wokwi.com/projects/471153468442289153
 
 # Circuit Diagram
 
-![Circuit Diagram](1000121016.jpg)
+images/1000121016.jpg
 
 # Flowchart 
 
