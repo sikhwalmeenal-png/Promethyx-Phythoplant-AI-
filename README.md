@@ -43,6 +43,7 @@ These signals are processed through a signal conditioning circuit and analyzed u
 
 ## Hardware
 
+- Plant
 - ESP32
 - Electrodes
 - Amplifier 
