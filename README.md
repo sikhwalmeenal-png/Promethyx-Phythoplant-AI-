@@ -59,7 +59,7 @@ These signals are processed through a signal conditioning circuit and analyzed u
 - JavaScript
 - TinyML
 - GitHub
-- 
+
 # Simulation
 
 Wokwi Simulation:
