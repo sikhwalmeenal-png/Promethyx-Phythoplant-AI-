@@ -1,6 +1,6 @@
 # Promethyx – Phythoplant AI
 
-Listening to Nature Before It Speaks
+"Listening to Nature Before It Speaks"
 
 A smart Edge AI-based plant stress detection system using ESP32, TinyML, and bioelectric signal monitoring.
 
