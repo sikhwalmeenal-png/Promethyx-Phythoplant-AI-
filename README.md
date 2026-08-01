@@ -65,6 +65,12 @@ These signals are processed through a signal conditioning circuit and analyzed u
 Wokwi Simulation:
 https://wokwi.com/projects/471153468442289153
 
+# Circuit Diagram
+
+## Circuit Diagram
+
+![Circuit Diagram](1000121016.jpg)
+
 # Flowchart 
 
 The following flowchart illustrates the complete workflow of the Promethyx – Phythoplant AI system.
