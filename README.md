@@ -1,5 +1,6 @@
-# Promethyx – Phythoplant AI
+# Promethyx – Phythoplant AI 
 
+Working App URL - https://promethyx.vercel.app/
 "Listening to Nature Before It Speaks"
 
 A smart Edge AI-based plant stress detection system using ESP32, TinyML, and bioelectric signal monitoring.
