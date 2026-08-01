@@ -46,7 +46,7 @@ These signals are processed through a signal conditioning circuit and analyzed u
 - Plant
 - ESP32
 - Electrodes
-- Amplifier 
+- AD 620 Amplifier 
 - Signal Conditioning Circuit
 - Relay Module
 - Water Pump / Fan (Prototype)
