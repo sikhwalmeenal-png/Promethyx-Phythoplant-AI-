@@ -63,8 +63,7 @@ These signals are processed through a signal conditioning circuit and analyzed u
 
 The following flowchart illustrates the complete workflow of the Promethyx – Phythoplant AI system.
 
-![Prototype Workflow](images/flowchart.png)
-
+![Prototype Workflow](IMG-20260801-WA0002.jpg)
 # Team Members
 
 - Meenal Pandey (Team Leader)
